@@ -1,9 +1,9 @@
 {
+  "homepage": "https://Ashish-Sunil-Vaidya.github.io/button-bg-changer",
   "name": "button-bg-changer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Ashish-Sunil-Vaidya.github.io/button-bg-changer",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
